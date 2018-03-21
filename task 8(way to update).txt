@@ -1,0 +1,5 @@
+1. Clone fork:
+-git clone Link-from-GitHub.git
+
+2. You can updating your fork from original repo to keep up their changes:
+-git pull upstream master
